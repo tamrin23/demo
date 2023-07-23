@@ -1,0 +1,11 @@
+h1{
+    color: red;
+    background-color: aquamarine;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    background-color: rgb(115, 0, 255);
+    margin: auto;
+}
